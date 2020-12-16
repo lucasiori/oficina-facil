@@ -64,9 +64,9 @@ export default function ServiceOrderPrinting() {
           <img src={logo} alt="Logo" />
 
           <CompanyInfo>
-            <h3>AUTO MECÂNICA JUNIOR IORI</h3>
-            <span>Av. das Acácias, 100, Itajobi - SP</span>
-            <span>(17) 99752-7884</span>
+            <h3>NOME DO ESTABELECIMENTO</h3>
+            <span>Endereço</span>
+            <span>(00) 00000-0000</span>
           </CompanyInfo>
         </div>
 
